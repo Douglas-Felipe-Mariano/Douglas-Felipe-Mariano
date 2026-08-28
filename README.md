@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Desenvolvedor Java/SQL" width="180"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Desenvolvedor Backend/SQL" width="180"/>
 </div>
 
 # Olá! Eu sou Douglas Felipe Mariano 👋
 
-Sou um Desenvolvedor em formação, focado em construir soluções robustas e escaláveis. Minha paixão reside no desenvolvimento **Backend**, **Engenharia de Software** e manipulação avançada de **Banco de Dados**.
+Sou um Engenheiro de Software focado em construir soluções robustas e escaláveis. Minha paixão e especialidade residem no desenvolvimento **Backend**, na **Engenharia de Software** e na manipulação avançada de **Bancos de Dados Relacionais**. 
 
-Atualmente, sou Técnico em Desenvolvimento de Sistemas (ETEC) e estou finalizando o Tecnólogo em Sistemas Inteligentes (FATEC). Busco ativamente minha primeira oportunidade em que possa aplicar todo meu conhecimento prático.
+Atualmente, atuo como **Engenheiro de Software na Evertec** e estou finalizando o Tecnólogo em Sistemas Inteligentes (FATEC Pompeia). Tenho experiência na manutenção e evolução de sistemas consolidados em produção, atuando fortemente com o ecossistema **C#, .NET e ASPX**, em conjunto com **SQL Server**, além de manter aperfeiçoamento contínuo em arquiteturas Java.
 
 ---
-
 
 ### 📈 Estatísticas do GitHub
 
@@ -22,13 +21,12 @@ Atualmente, sou Técnico em Desenvolvimento de Sistemas (ETEC) e estou finalizan
 
 ### 🚀 Minhas Habilidades Técnicas
 
-Minha base é sólida em **Java** e na arquitetura de APIs, mas estou sempre aberto a novas stacks Full Stack.
+Minha atuação diária envolve sustentar e evoluir aplicações em ambientes críticos, lidando com regras de negócio complexas e integrações.
 
 | Categoria | Tecnologias Chave |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Banco de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend & Linguagens** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |
+| **Banco de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Ferramentas/DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 ---
@@ -36,7 +34,7 @@ Minha base é sólida em **Java** e na arquitetura de APIs, mas estou sempre abe
 ### 💻 Projetos em Destaque: Barberix e Maderix
 
 #### 1. Barberix 
-* **Foco:** Aplicação Full Stack para gerenciamento de agendamentos.
+* **Foco:** Aplicação para gerenciamento de agendamentos.
 * **Diferencial:** Implementação de lógica de negócios e regras de segurança (como validação de horários e autenticação) diretamente no **SQL Server** através de **Stored Procedures**.
 * **Stack:** Backend em **Java/Spring Boot** e Frontend em **React**.
  
@@ -53,11 +51,12 @@ Minha base é sólida em **Java** e na arquitetura de APIs, mas estou sempre abe
 
 ### 🌱 Meu Perfil Profissional
 
--   Sou focado em boas práticas, **testes unitários** e na **análise de causa raiz** de problemas.
--   Minha experiência profissional em Suporte Técnico (Poupatempo) me deu forte **capacidade analítica** e **comunicação** para traduzir problemas de negócio em soluções técnicas.
+- Atuo ativamente na manutenção de sistemas reais de mercado, resolvendo problemas de produção e desenvolvendo soluções utilizando **C#, .NET, ASPX e SQL Server**.
+- Sou focado na construção de arquiteturas limpas, **testes unitários** e na **análise de causa raiz** de incidentes.
+- Minha trajetória — que inclui desde suporte técnico no Poupatempo até o desenvolvimento de software — me proporcionou forte **capacidade analítica** para traduzir problemas de negócio complexos em soluções técnicas de alto impacto.
+- Participante de programas de inovação (como o InovaSkill) e possuo certificação de proficiência na língua inglesa (TOEIC).
 
 
 ### 🤝 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasfelipemariano/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dougsfm110704@gmail.com)
