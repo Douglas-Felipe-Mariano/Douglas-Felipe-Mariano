@@ -14,8 +14,8 @@ Atualmente, sou Técnico em Desenvolvimento de Sistemas (ETEC) e estou finalizan
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Douglas-Felipe-Mariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Douglas-Felipe-Mariano&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Douglas-Felipe-Mariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Douglas-Felipe-Mariano&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
